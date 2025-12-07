@@ -1,4 +1,4 @@
-# Multi-Vendor E-Commerce Marketplace (DBMS Project)
+# Multi-Vendor E-Commerce Marketplace (System Design Project)
 
 **Project**: Multi-Vendor E-Commerce Marketplace
 
